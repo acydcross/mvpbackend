@@ -1,2 +1,2 @@
 # mvpbackend
-This is the backend project for Innotech
+This is the frontend of project mvp for Innotech
